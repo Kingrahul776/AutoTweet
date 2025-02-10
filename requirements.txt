@@ -1,0 +1,8 @@
+flask
+tweepy
+gunicorn
+psycopg2
+celery
+redis
+python-dotenv
+requests
